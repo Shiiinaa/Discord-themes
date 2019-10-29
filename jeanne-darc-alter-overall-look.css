@@ -169,7 +169,7 @@
 	background-color: var(--submenu-color);
 }
 /* border of accent colors */
-.innerNoAutocomplete-1WpcVO, .search .search-bar, .theme-dark .auditLog-3jNbM6, .container-1UB9sr, .theme-dark .accountBtnInner-sj5jLs, .video-1FfuMD, .searchBar-3dMhjb {
+.innerNoAutocomplete-1WpcVO, .theme-dark .auditLog-3jNbM6, .container-1UB9sr, .theme-dark .accountBtnInner-sj5jLs, .video-1FfuMD, .searchBar-3dMhjb {
 	border: 2px solid;
 	border-color: var(--accent-color-border);
 }
