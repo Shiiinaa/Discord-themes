@@ -183,7 +183,7 @@
 	border-color: var(--accent-color-border-hover);
 }
 .theme-dark .inner-zqa7da, .da-app .search .search-bar, .searchBar-3dMhjb {
-	background-color: var(--accent-color)!important;
+	background: var(--accent-color)!important;
 }
 /* removing a border */
 .theme-dark .select-2TCrqx .is-focused {
