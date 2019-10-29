@@ -83,14 +83,14 @@
 }
 /* send message button */
 .lookInverted-2D7oAl.colorGreen-29iAKY {
-    background-color: rgba(29, 121, 152, 0.59);
-    border: 2px solid #1c8aa9;
-    color: #43b581;
+    background-color: rgba(149, 29, 31, 0.59);
+    border: 2px solid #a91c1c;
+    color: #002f1a;
 }
 .lookInverted-2D7oAl.colorGreen-29iAKY:hover {
-    background-color: rgba(29, 121, 152, 1);
-    border: 2px solid #1c8aa9;
-    color: #43b581;
+    background-color: rgba(149, 29, 31, 0.59);
+    border: 2px solid #a91c1c;
+    color: #002f1a;
 }
 .search-bar.search-bar-light input {
     color: #d0d0d0;
@@ -125,14 +125,14 @@
 }
 /* header playing a game */
 .headerPlaying-j0WQBV, .topSectionPlaying-1J5E4n, .newMessagesBar-mujexs {
-    background: rgba(114, 170, 218, 0.8);
+    background: rgba(217, 113, 115, 0.8);
 }
 /* new message info hover */
 .newMessagesBar-mujexs:hover {
-    background: rgba(114, 170, 218, 1);
+    background: rgba(218, 92, 94, 1);
 }
 /* big buttons */
-.theme-dark .cardPrimaryEditable-3KtE4g, .da-app .cardPrimaryEditable-3KtE4g[style*="border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218)"] {
+.theme-dark .cardPrimaryEditable-3KtE4g, .da-app .cardPrimaryEditable-3KtE4g[style*="border-color: rgb(217, 113, 115); background-color: rgb(217, 113, 115)"] {
 	background-color: var(--accent-color)!important;
 	border-color: var(--accent-color-border)!important;
 }
@@ -185,7 +185,7 @@
 	border-color: var(--accent-color-border-hover);
 }
 .theme-dark .inner-zqa7da, .da-app .search .search-bar, .searchBar-3dMhjb {
-	background: rgba(54, 139, 165, 0.45);
+	background: rgba(160, 53, 55, 0.45);
 }
 /* removing a border */
 .theme-dark .select-2TCrqx .is-focused {
@@ -251,12 +251,12 @@
 	background-color: var(--submenu-hover);
 }
 .theme-dark .item-1Yvehc:hover {
-	border-left: 4px solid #226980;
+	border-left: 4px solid #802222;
     border-radius: 3px;
 }
 /* custom emoji button and border and box shadow */
 #bda-qem button {
-	background-color: rgba(18, 63, 80, 0.35);
+	background-color: rgba(78, 17, 18, 0.35);
 	border-left: 1px solid var(--accent-color-border);
 	box-shadow: var(--accent-color-border) 1px 0 0 0;
 	color: #b5b5b5;
@@ -311,7 +311,7 @@
     background: transparent;
 }
 .theme-dark .header-1RC2Wb:hover {
-    background: rgba(11, 52, 68, 0.85);
+    background: rgba(65, 10, 11, 0.85);
 }
 .theme-dark .dockItem-2kQDqg:hover {
     background: var(--submenu-color);
@@ -326,10 +326,10 @@
     background-color: var(--submenu-color);
 }
 .news-2GDtLJ:hover {
-    background-color: rgba(11, 52, 68, 0.85);
+    background-color: rgba(65, 10 , 11, 0.85);
 }
 .theme-dark .sectionLine-JjseS9 {
-    background-color: rgba(14, 134, 179, 0.85);
+    background-color: rgba(174, 14, 16, 0.85);
 }
 .headerButtonColor-G7_f-V {
     background: var(--accent-color);
@@ -367,36 +367,36 @@
 .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN {flex: 0}
 .standardSidebarView-3F1I7i .contentColumnDefault-1VQkGM {max-width: 90%;padding: 40px 30px 80px}
 /* discord nitro color font */
-.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebar-CFHs9e .side-8zPYf6 .item-PXvHYJ[style*="color: rgb(114, 137, 218)"] {
+.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebar-CFHs9e .side-8zPYf6 .item-PXvHYJ[style*="color: rgb(217, 113, 115)"] {
     color: #b9bbbe!important;
 }
 /* extra code */
 .ui-tab-bar {transition:0.2s;}
 
 /* Spotify, steam and league of legends boxes at connections */
-.theme-dark .elevationLow-2lY09M[style*="background-color: rgb(2, 31, 37);"] {
-    background-color: rgba(2, 31, 37, 0.7)!important;
-    border-color: rgb(2, 31, 37)!important;
+.theme-dark .elevationLow-2lY09M[style*="background-color: rgb(33, 1, 2);"] {
+    background-color: rgba(33, 1, 2, 0.7)!important;
+    border-color: rgb(33, 1, 2)!important;
     border: 1px solid;
 }
-.theme-dark .elevationLow-2lY09M[style*="background-color: rgb(24, 35, 50);"] {
-	background-color: rgba(24, 35, 50, 0.7)!important;
-    border-color: rgb(2, 31, 37)!important;
+.theme-dark .elevationLow-2lY09M[style*="background-color: rgb(48, 23, 23);"] {
+	background-color: rgba(48, 23, 23, 0.7)!important;
+    border-color: rgb(48, 23, 23)!important;
     border: 1px solid;
 }
-.theme-dark .elevationLow-2lY09M[style*="background-color: rgb(29, 185, 84);"] {
-	background-color: rgba(29, 185, 84, 0.7)!important;
-    border-color: rgb(29, 185, 84)!important;
+.theme-dark .elevationLow-2lY09M[style*="background-color: rgb(179, 29, 31);"] {
+	background-color: rgba(179, 29, 31, 0.7)!important;
+    border-color: rgb(179, 29, 31)!important;
     border: 1px solid;
 }
 
 /* discord nitro button selected and hover states */
-.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebar-CFHs9e .side-8zPYf6 .item-PXvHYJ[style*="background-color: rgb(114, 137, 218);"] {
+.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebar-CFHs9e .side-8zPYf6 .item-PXvHYJ[style*="background-color: rgb(217, 113, 115);"] {
 	background-color: var(--accent-color)!important;
 	border: 2px solid var(--accent-color-border)!important;
 }
 
-.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebar-CFHs9e .side-8zPYf6 .item-PXvHYJ[style*="background-color: rgba(114, 137, 218, 0.0980392);"] {
+.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebar-CFHs9e .side-8zPYf6 .item-PXvHYJ[style*="background-color: rgba(217, 113, 115, 0.0980392);"] {
 	background-color: var(--accent-color-hover)!important;
 	border: 2px solid var(--accent-color-hover)!important;
 }
@@ -420,7 +420,7 @@
     background-color: var(--submenu-color);
 }
 .theme-dark .tile-QA_yMc:hover {
-    background-color: rgba(24, 86, 109, 0.85);
+    background-color: rgba(105, 52, 53, 0.85);
 }
 .theme-dark .overlappingBorder-3aFng4 {
     border: 2px solid var(--accent-color-border);
