@@ -92,7 +92,9 @@
     border: 2px solid #a91c1c;
     color: #002f1a;
 }
-
+.search-bar.search-bar-light input {
+    color: #d0d0d0;
+}
 /* status profiles */
 .theme-dark .headerNormal-T_seeN, .theme-dark .bodyInner-245q0L, .theme-dark .wrapper-35wsBm {
 	background-color: var(--submenu-color);
