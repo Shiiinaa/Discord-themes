@@ -185,7 +185,7 @@
 	border-color: var(--accent-color-border-hover);
 }
 .theme-dark .inner-zqa7da, .da-app .search .search-bar, .searchBar-3dMhjb {
-	background: rgba(170, 0, 0, 0.45)!important;
+	background: rgba(170, 0, 0, 0.35)!important;
 }
 /* removing a border */
 .theme-dark .select-2TCrqx .is-focused {
