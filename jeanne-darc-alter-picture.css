@@ -1,14 +1,9 @@
-//META{"name":"Jeanne D'arc Alter","description":"A theme designed with Jeanne D'arc (Alter)","author":"Shiina","version":"1.0"}*// {}
-
+//META{"name":"Jeanne D'arc Alter","description":"A theme designed with Jeanne D'arc (Alter)","author":"シイナ","version":"1.0"}*// {}
 
 /* imports urls here */ /* remove the status.css import url if you want default status */
-@import url(https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/status.css);
-
-/* this is for picture design somewhere needed, mayb for removing old stuff */
-@import url(https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css);
-
-/* this is for design borders, search bar etc. */
-/*@import url(https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/wishful-blue/code.css);*/
+@import url(https://raw.githack.com/Shiiinaa/Discord-themes/master/status-stuff.css);
+@import url(https://raw.githack.com/Shiiinaa/Discord-themes/master/background-removing.css);
+@import url(https://raw.githack.com/Shiiinaa/Discord-themes/master/jeanne-darc-alter-overall-look.css);
 
 :root {
 	/* background URL */
@@ -25,21 +20,21 @@
 	--transparency-5: linear-gradient(to right, rgba(0,0,0,0.85), rgba(0,0,0,0.75),rgba(0,0,0,0.65), rgba(0,0,0,0.62), rgba(0,0,0,0.60),rgba(0,0,0,0.55), rgba(0,0,0,0.55));
 	
 	/* Background color of markdown box */
-	--markdown-background-color: rgba(54, 139, 165, 0.15);
+	--markdown-background-color: rgba(170, 0, 0, 0.15);
 	/* Border of markdown text */
-	--markdown-border-color: rgba(54, 139, 165, 0.45);
-	/* accent color, applies to buttons */
-	--accent-color: rgba(54, 139, 165, 0.35);
+	--markdown-border-color: rgba(255, 0, 0, 0.45);
+	/* accent color, applies to Buttons */
+	--accent-color: rgba(170, 0, 0, 0.35);
 	/* accent color for the border */
-	--accent-color-border: rgba(54, 139, 165, 0.45);
+	--accent-color-border: rgba(255, 0, 0, 0.45);
 	/* accent color hover state */
-	--accent-color-hover: rgba(54, 139, 165, 0.10);
+	--accent-color-hover: rgba(170, 0, 0, 0.10);
 	/* acent color border hover state */
-	--accent-color-border-hover: rgba(54, 139, 165, 0.20);
+	--accent-color-border-hover: rgba(170, 0, 0, 0.15);
 	/* Checker ON/OFF */
-	--checker-on: rgba(54, 139, 165, 0.35);
-	--checker-off: rgba(11, 39, 45, 0.60);
+	--checker-on: rgba(170, 0, 0, 0.15);
+	--checker-off: rgba(80, 16, 17, 0.60);
 	/* Sub Menu's background color and hover */
-	--submenu-color: rgba(18, 63, 80, 0.85);
-	--submenu-hover: rgba(3, 12, 21, 0.25);
+	--submenu-color: rgba(70, 17, 18, 0.85);
+	--submenu-hover: rgba(17, 2, 2, 0.25);
 }
